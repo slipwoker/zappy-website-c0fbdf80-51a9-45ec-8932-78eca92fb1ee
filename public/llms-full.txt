@@ -2986,7 +2986,7 @@ Continue Shopping
 
 ### Add Address
 
-&times;
+×
 
 
 
