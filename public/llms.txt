@@ -1,0 +1,101 @@
+# GRVMZ /KLōTHING/ BRAND — Generative Engine Optimization Map
+
+> A clothing brand offering apparel for both women and men, looking to establish an online presence to sell their products directly to customers.
+
+---
+
+## Pages
+
+### Home
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app
+Discover GRVMZ /KLōTHING/ BRAND, your new fashion boutique online for bold apparel. Shop curated styles for women and men that fuse street grit with modern design. Elevate your wardrobe now.
+
+### Brand Story
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/brand-story
+Uncover the raw origins of GRVMZ /KLōTHING/ BRAND. We craft apparel for rule-breakers and tastemakers, blending rebellion with luxury. See why we&#39;re more than a fashion boutique online.
+
+### Lookbook
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/lookbook
+Flip through the GRVMZ /KLōTHING/ BRAND lookbook for fresh outfit inspiration. From edgy men&#39;s clothing stores vibes to 6y in women&#39;s fits, find your next statement look and shop the edit.
+
+### Contact
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/contact
+Connect with GRVMZ /KLōTHING/ BRAND and experience personal styling support. Whether it&#39;s sizing, orders, or collaborations, your next-level fashion boutique online journey starts with a message.
+
+### Products
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/products
+Our Products - GRVMZ /KLōTHING/ BRAND
+
+### Cart
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/checkout
+Checkout
+
+### Login
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/login
+Customer Login
+
+### Account
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/account
+My Account
+
+### Order Success
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/product/:slug
+Product Details - GRVMZ /KLōTHING/ BRAND
+
+### Category
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/category/:slug
+Products - GRVMZ /KLōTHING/ BRAND
+
+## Legal & Policy
+
+### Privacy Policy
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About GRVMZ /KLōTHING/ BRAND
+A clothing brand offering apparel for both women and men, looking to establish an online presence to sell their products directly to customers.
+
+## Target Audience
+- women and men
+- Urban Fashionistas
+- Eco-Friendly Shoppers
+- Tech-Savvy Millennials
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/sitemap.xml
+- Robots: https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/llms-full.txt
+- Products (JSON): https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/products.json
+- Products (Google Merchant RSS): https://grvmz-kl-thing-brand-c0fbdf80.zappy5.app/product-feed.xml
